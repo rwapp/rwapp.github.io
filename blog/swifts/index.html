@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Thank you so much for getting in touch — I’ve been genuinely surprised - and thrilled - by how many people have shown interest. It’s made me even more excited to move this project forward." />
+    <meta name="author" content="Rob Whitaker" />
+    <meta name="generator" content="Ignite v0.6.0" />
+    <title>Swiftys for Swift – Apple platforms engineer and accessibility specialist.</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/bootstrap-icons.min.css" rel="stylesheet" />
+    <link href="/css/ignite-core.min.css" rel="stylesheet" />
+    <link href="https://www.rwapp.co.uk/blog/swifts" rel="canonical" />
+    <script>(function() {
+    function getThemePreference() {
+        return localStorage.getItem('custom-theme') || 'auto';
+    }
+
+    function applyTheme(themeID) {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const lightThemeID = document.documentElement.getAttribute('data-light-theme') || 'light';
+        const darkThemeID = document.documentElement.getAttribute('data-dark-theme') || 'dark';
+        const actualThemeID = themeID === 'auto' ? (prefersDark ? darkThemeID : lightThemeID) : themeID;
+
+        document.documentElement.setAttribute('data-bs-theme', actualThemeID);
+        document.documentElement.setAttribute('data-theme-state', themeID);
+    }
+
+    function applySyntaxTheme() {
+        const syntaxTheme = getComputedStyle(document.documentElement)
+            .getPropertyValue('--syntax-highlight-theme').trim().replace(/"/g, '');
+
+        if (!syntaxTheme) return;
+
+        document.querySelectorAll('link[data-highlight-theme]').forEach(link => {
+            link.setAttribute('disabled', 'disabled');
+        });
+
+        const themeLink = document.querySelector(`link[data-highlight-theme="${syntaxTheme}"]`);
+        if (themeLink) {
+            themeLink.removeAttribute('disabled');
+        }
+    }
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        const currentTheme = getThemePreference();
+        if (currentTheme === 'auto') {
+            applyTheme('auto');
+            applySyntaxTheme();
+        }
+    });
+
+    const savedTheme = getThemePreference();
+    applyTheme(savedTheme);
+    applySyntaxTheme();
+})();
+</script>
+    <meta property="og:site_name" content="Rob Whitaker" />
+    <meta property="og:title" content="Swiftys for Swift" />
+    <meta name="twitter:title" content="Swiftys for Swift" />
+    <meta property="og:description" content="Thank you so much for getting in touch — I’ve been genuinely surprised - and thrilled - by how many people have shown interest. It’s made me even more excited to move this project forward." />
+    <meta name="twitter:description" content="Thank you so much for getting in touch — I’ve been genuinely surprised - and thrilled - by how many people have shown interest. It’s made me even more excited to move this project forward." />
+    <meta property="og:url" content="https://www.rwapp.co.uk/blog/swifts" />
+    <meta name="twitter:domain" content="rwapp.co.uk" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:dnt" content="on" />
+  </head>
+  <body class="ms-2 me-5 container">
+    <div class="ig-main-content">
+      <a href="/" class="pb-5">Home</a>
+      <div class="pb-4">
+        <p class="font-gtW87 pt-5" style="line-height: 1; font-weight: 400; font-weight: 800; padding-bottom: 0px">Swiftys for Swift</p>
+        <p>Published: 28/07/2025<br />By: Rob Whitaker<br /><br /></p>
+        <p></p>
+        <hr />
+        <p></p>
+        <p class="pb-4"></p>
+        <p>Thank you so much for getting in touch — I’ve been genuinely surprised - and thrilled - by how many people have shown interest. It’s made me even more excited to move this project forward.</p>
+        <p>As Swift developers, we build with a language named after one of nature’s most remarkable birds. With the next Swift release coming up soon, I thought this would be a great moment to give back to the birds that lent their name to our work— by raising awareness and funds for international bird conservation.</p>
+        <p>Nothing is set in stone yet, so I’m very open to ideas and input. Here’s my current plan for Swifts for Swift: A simple, elegant one-page website with information about swifts, why they matter, and what people can do to help— from planting wildflowers to putting up nest boxes.</p>
+        <p>A donation link to support an international conservation charity— I’m leaning toward BirdLife International, but open to suggestions. And possibly rotating charities with each Swift release.</p>
+        <p>A set of digital badges and assets that people can add to their apps, GitHub projects, or share on social media to show support and drive attention to the campaign.</p>
+        <p>Here’s where you could help, if you’re up for it:</p>
+        <ul>
+          <li>Contributing ideas to make this more impactful or unique</li>
+          <li>Sharing any beautiful Swift bird photos we could use</li>
+          <li>Helping design and build the website or create visual assets (badges, banners, etc.)</li>
+          <li>Committing to use the badge in your own app or GitHub repo once it’s ready</li>
+        </ul>
+        <p>There’s no pressure— anything you’re able to offer, even just a bit of feedback or a post on social media when we go live, would be hugely appreciated. With Swift’s next release just around the corner, we’ve got a few weeks to bring this to life and make a difference. Let me know what you’re interested in contributing— or if you’d like to be kept in the loop as things progress.</p>
+        <p>Drop me an email to <a href="mailto:rw@rwapp.co.uk">rw@rwapp.co.uk</a></p>
+        <p>Thanks again,<br /> Rob</p>
+        <p></p>
+      </div>
+      <p></p>
+      <hr />
+      <p></p>
+      <div class="vstack gap-3">
+        <div class="mb-0 align-self-start" style="display: inline-block">
+          <div class="vstack">
+            <p class="mb-0 align-self-center">Rob Whitaker 2025</p>
+            <p class="mb-0 align-self-center">Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" /><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" /></p>
+            <p class="mb-0 align-self-center" style="padding-bottom: 20px">Created in Swift with <a target="_blank" rel="noopener" href="https://github.com/twostraws/Ignite">Ignite</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/ignite-core.js"></script>
+  </body>
+</html>

@@ -1033,3 +1033,67 @@ code, pre {
     }
 }
 
+.font-gtW87 {
+    font-size: 2.5rem;
+}
+
+@media (min-width: 576px) {
+    [data-bs-theme="light"] .font-gtW87 {
+        font-size: 3.0rem;
+    }
+}
+
+@media (min-width: 576px) {
+    [data-bs-theme="dark"] .font-gtW87 {
+        font-size: 3.0rem;
+    }
+}
+
+@media (min-width: 768px) {
+    [data-bs-theme="light"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 768px) {
+    [data-bs-theme="dark"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 992px) {
+    [data-bs-theme="light"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 992px) {
+    [data-bs-theme="dark"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 1200px) {
+    [data-bs-theme="light"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 1200px) {
+    [data-bs-theme="dark"] .font-gtW87 {
+        font-size: 5.0vw;
+    }
+}
+
+@media (min-width: 1400px) {
+    [data-bs-theme="light"] .font-gtW87 {
+        font-size: 4.0vw;
+    }
+}
+
+@media (min-width: 1400px) {
+    [data-bs-theme="dark"] .font-gtW87 {
+        font-size: 4.0vw;
+    }
+}
+
