@@ -338,7 +338,6 @@ div.alert p:last-child {
     --bs-link-hover-color-rgb: 87, 87, 87;
     --bs-border-color: rgb(222 226 230 / 100%);
     --bs-border-color-rgb: 222, 226, 230;
-    --bs-body-font-family: Helvetica;
     --syntax-highlight-theme: "xcode-light";
 }
 
@@ -836,7 +835,6 @@ code, pre {
     --bs-link-hover-color-rgb: 87, 87, 87;
     --bs-border-color: rgb(222 226 230 / 100%);
     --bs-border-color-rgb: 222, 226, 230;
-    --bs-body-font-family: Helvetica;
     --syntax-highlight-theme: "xcode-light";
 }
 
@@ -901,7 +899,6 @@ code, pre {
     --bs-link-hover-color-rgb: 255, 255, 255;
     --bs-border-color: rgb(73 80 87 / 100%);
     --bs-border-color-rgb: 73, 80, 87;
-    --bs-body-font-family: Helvetica;
     --syntax-highlight-theme: "xcode-dark";
 }
 
