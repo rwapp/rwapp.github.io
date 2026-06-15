@@ -3,12 +3,12 @@
   "current_entry_id": "2026-06-15",
   "entries": [
     {
-      "id": "2024-06-28",
-      "date": "2024-06-28",
+      "id": "2026-06-15",
+      "date": "2026-06-15",
       "theme": "Magic Valley",
       "hero": [
         {
-          "url": "https://live.staticflickr.com/65535/51353106998_af21ca2f77_o.jpg?s=eyJpIjo1MTM1MzEwNjk5OCwiZSI6MTc4MTU1MjA0MSwicyI6IjI3YmNlNDZjODc2ODlhMDNmNTMyNGMzMmM3NjA4NmRiMDA2ZmRjYmYiLCJ2IjoxfQ",
+          "url": "https://live.staticflickr.com/65535/51353106998_af21ca2f77_o.jpg",
           "credit": "Paula Bailey",
           "credit_url": "https://www.flickr.com/photos/auntiep/51353106998/in/photolist-2meU6Aw-2meSUyM-8esqS4-7YgFvz-eYG9p6-2mfmcVV-2meWH8F-2kEQHyx-bvKZrw-8uns6W-2mfhrJg-jTKn7M-JBwZb2-8es2qz-W6xeoo-6Au2bC-6AJJno-2meYapn-eh5J5D-2mfvuEZ-6AJJ3d-8esimV-oTAVRJ-2mfmcYW-JuGRYe-HFo43w-oUNYZi-K67UkW-HFo7ES-8esaZp-p6vQv5-8esGVB-2kERg4H-9Vr7kt-8e9qxj-8enPs6-6AEHbx-JqJNk3-8esFxM-egyaMj-Xajuhc-8eso5k-8unqg7-5Hc3Qz-YxSgX-8ppwDB-8espjk-2gLs6Ee-2mfdCwx-2iqkx98",
           "alt": "Looking down the 'road' that divides Big Ground in two. Overgrown but still rocky underfoot."
@@ -29,6 +29,65 @@
       ],
       "revision": 1,
       "priority": "normal"
+    },
+    {
+      "id": "2026-06-16",
+      "date": "2026-06-16",
+      "theme": "Stone Circle",
+      "hero": [
+        {
+          "url": "https://live.staticflickr.com/40/121881815_dd48804bd3_b.jpg",
+          "credit": "John Hartnup",
+          "credit_url": "https://www.flickr.com/photos/hartnupj/121881815/in/photolist-6Yrjx-7nV9-6DNSvz-7nVk-hVzvc-53JYhH-anvEyi-2YBPR-bLFdB-fmAH1R-5138Xc-53NZUq-oejT2W-fmQVTU-nYSzax-fmAMk6-ch3Yks-aZN2-318B6-fkDBo3-7na52-ccHi-W4Z9nZ-8eG7qJ-2Woc3-9XDCAC-Y1f2r-f4NGo3-fkppP4-fkpqyg-9XrKAj-XgeBG-f4yriB-51SCUG-51es9y-9kSvck-2WoHc-6DT31A-cJRZs-Z6PZb-9epVDQ-2Z2KH-8NtqLG-ZAeXj-9Yghi7-Y4Nkd-Z2nTV-2YYU4-22qU6B",
+          "alt": "A muddy Kings field and stone circle."
+        }
+      ],
+      "quote": {
+        "text": "Everyone started dancing spontaneously at the stone circle at sunset.",
+        "attribution": "Tanya Cooper, festival-goer, recalling Glastonbury 1997"
+      },
+      "memory": [
+        {
+          "type": "link",
+          "url": "https://www.megalithic.co.uk/article.php?sid=45067",
+          "curator_title": "Historic accounts date the monuments construction to 1992",
+          "curator_description": "",
+          "thumbnail_url": "https://live.staticflickr.com/3873/14427083069_cf89671ab9_o.jpg?s=eyJpIjoxNDQyNzA4MzA2OSwiZSI6MTc4MTU1MzQ3MSwicyI6IjIzZDM5ZWUzMjU3MThiZGUwNTgxNmY5ZGQ4MjBlNmVjNDE1MWI4NTMiLCJ2IjoxfQ"
+        }
+      ],
+      "revision": 1,
+      "priority": "normal"
+    },
+    {
+      "id": "2026-06-17",
+      "date": "2026-06-17",
+      "theme": "Stone Circle",
+      "hero": [
+        {
+          "url": "https://live.staticflickr.com/6020/5881329744_34ffdaff88_o.jpg",
+          "credit": "Rachel D",
+          "credit_url": "https://www.flickr.com/photos/fussyonion/5881329744/in/photolist-9XHmqY-dMg6xj-2p5YDJa-2hR7Gwb-2hR7Npt-2hRbh2L-2hRaiL8-2hR7Khb-2hRbdsw-2hRbcJc",
+          "alt": "Psychedelic Pyramid Stage illumiated with colourful projections."
+        }
+      ],
+      "quote": {
+        "text": "Glastonbury can be like... it’s a psychic obstacle course",
+        "attribution": "Jarvis Cocker"
+      },
+      "memory": [
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=Q7GFcLMqoaw",
+          "curator_title": "Do psychedelics matter?",
+          "curator_description": "",
+          "thumbnail_url": "https://live.staticflickr.com/7434/9202223813_d8fa0a2091_o.jpg?s=eyJpIjo5MjAyMjIzODEzLCJlIjoxNzgxNTU0NjY3LCJzIjoiOTA3MDgxOWEzY2Q1ZTVmOGQyOTgyOGM5NWM1MzNlOTczZjhmYTg1MCIsInYiOjF9"
+        }
+      ],
+      "revision": 1,
+      "priority": "normal"
     }
   ]
 }
+
+
+Glastonbury can be like, it’s a psychic obstacle course
