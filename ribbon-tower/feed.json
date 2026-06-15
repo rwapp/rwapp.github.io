@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "current_entry_id": "2026-06-15",
+  "entries": [
+    {
+      "id": "2024-06-28",
+      "date": "2024-06-28",
+      "theme": "Magic Valley",
+      "hero": [
+        {
+          "url": "https://live.staticflickr.com/65535/51353106998_af21ca2f77_o.jpg?s=eyJpIjo1MTM1MzEwNjk5OCwiZSI6MTc4MTU1MjA0MSwicyI6IjI3YmNlNDZjODc2ODlhMDNmNTMyNGMzMmM3NjA4NmRiMDA2ZmRjYmYiLCJ2IjoxfQ",
+          "credit": "Paula Bailey",
+          "credit_url": "https://www.flickr.com/photos/auntiep/51353106998/in/photolist-2meU6Aw-2meSUyM-8esqS4-7YgFvz-eYG9p6-2mfmcVV-2meWH8F-2kEQHyx-bvKZrw-8uns6W-2mfhrJg-jTKn7M-JBwZb2-8es2qz-W6xeoo-6Au2bC-6AJJno-2meYapn-eh5J5D-2mfvuEZ-6AJJ3d-8esimV-oTAVRJ-2mfmcYW-JuGRYe-HFo43w-oUNYZi-K67UkW-HFo7ES-8esaZp-p6vQv5-8esGVB-2kERg4H-9Vr7kt-8e9qxj-8enPs6-6AEHbx-JqJNk3-8esFxM-egyaMj-Xajuhc-8eso5k-8unqg7-5Hc3Qz-YxSgX-8ppwDB-8espjk-2gLs6Ee-2mfdCwx-2iqkx98",
+          "alt": "Looking down the 'road' that divides Big Ground in two. Overgrown but still rocky underfoot."
+        }
+      ],
+      "quote": {
+        "text": "The valley and tor worked their magic, the sun shone and entry was free.",
+        "attribution": "Andrew Kerr, co-organiser of the 1971 Glastonbury Fayre, in his memoir 'Intolerably Hip' (2011)"
+      },
+      "memory": [
+        {
+          "type": "link",
+          "url": "https://www.bfi.org.uk/features/still-life-glastonbury-1971-pyramid-stage",
+          "curator_title": "Hippie bliss at Glastonbury",
+          "curator_description": "",
+          "thumbnail_url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-02/glastonbury-festival-and-the-first-pyramid-stage-1972-pyramid-stage-scaffolding.jpg/600x0/glastonbury-festival-and-the-first-pyramid-stage-1972-pyramid-stage-scaffolding.jpg"
+        }
+      ],
+      "revision": 1,
+      "priority": "normal"
+    }
+  ]
+}
