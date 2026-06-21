@@ -1,12 +1,260 @@
 {
-  "version": 0,
-  "current_entry_id": "2026-06-15",
-  "entries": [
+  "entries" : [
     {
-      "id": "2026-06-15",
-      "date": "2026-06-15",
-      "theme": "Magic Valley",
-      "hero": [
+      "date" : "2026-06-21",
+      "hero" : [
+        {
+          "alt" : "Greenpeace letters on poles at night in front of some illuminated tipis  ",
+          "credit" : "Paul Carless",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/7158334@N07\/9177916744",
+          "url" : "https:\/\/live.staticflickr.com\/7406\/9177916744_6528d38512_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Greenpeace at Glastonbury Festival",
+          "type" : "link",
+          "url" : "https:\/\/www.glastonburyfestivals.co.uk\/areas\/the-green-fields\/greenpeace\/"
+        },
+        {
+          "curator_title" : "Cleaning up for the Cows: Who are the Glastonbury Recycling Crew?",
+          "type" : "link",
+          "url" : "https:\/\/glastofestfeed.com\/features\/cleaning-up-cows-glastonbury-recycling-crew"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Bev, Greenpeace Bar volunteer",
+        "text" : "Glastonbury is special to me because it takes me way out of my comfort zone."
+      },
+      "theme" : "Volunteering"
+    },
+    {
+      "date" : "2026-06-22",
+      "hero" : [
+        {
+          "alt" : "A soft focused Glastonbury festival at night from the 1990s. The site is illuminated in soft incandescent light",
+          "credit" : "Peter Smithson",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/28463853@N00\/611655417",
+          "url" : "https:\/\/live.staticflickr.com\/1190\/611655417_dc4466b0b6_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "How Arcadia built the famous spider stage at Glastonbury",
+          "type" : "link",
+          "url" : "https:\/\/www.ingenia.org.uk\/articles\/the-arcadia-spider-from-junk-to-spectacle\/"
+        },
+        {
+          "curator_title" : "Where Is The Best Place To Camp",
+          "type" : "link",
+          "url" : "https:\/\/glastonburytips.com\/where-is-the-best-place-to-camp-at-glastonbury\/"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Rowan Chapman, festival-goer",
+        "text" : "This wasn’t just a music festival, it was something more. I knew we would never be the same again."
+      },
+      "theme" : "Never the same"
+    },
+    {
+      "date" : "2026-06-23",
+      "hero" : [
+        {
+          "alt" : "A very blurry Water Aid 'Don't piss here' sign",
+          "credit" : "Manchester-Monkey",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/38028723@N06\/4743920427",
+          "url" : "https:\/\/live.staticflickr.com\/4138\/4743920427_31eaeedafc_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Water Aid",
+          "type" : "link",
+          "url" : "https:\/\/www.wateraid.org\/uk"
+        },
+        {
+          "curator_title" : "Jah Wobble's Invaders of the Heart, Glastonbury 1992",
+          "type" : "video",
+          "url" : "https:\/\/www.youtube.com\/watch?v=_lBkmW9JRo8"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Safa El-Jamal",
+        "text" : "My experience as a whole of the toilets is relatively pleasant."
+      },
+      "theme" : "Toilets"
+    },
+    {
+      "date" : "2026-06-24",
+      "hero" : [
+        {
+          "alt" : "Hundreds of varied tents crammed in together",
+          "credit" : "doop",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/52275883@N00\/2635298070",
+          "url" : "https:\/\/live.staticflickr.com\/3175\/2635298070_851482ecd2_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Where Is The Best Place To Camp",
+          "type" : "link",
+          "url" : "https:\/\/glastonburytips.com\/where-is-the-best-place-to-camp-at-glastonbury\/"
+        },
+        {
+          "curator_title" : "The Verve, Glastonbury 1993",
+          "type" : "video",
+          "url" : "https:\/\/www.youtube.com\/watch?v=JIibhiKVBks"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Richard Ashcroft, Verve frontman",
+        "text" : "It takes your breath away, when you see that field for the first time, that city of tents."
+      },
+      "theme" : "City of tents"
+    },
+    {
+      "date" : "2026-06-25",
+      "hero" : [
+        {
+          "alt" : "Aerial acrobats suspended from a giant metal spider.",
+          "credit" : "dave lewis 88",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/23880326@N04\/14400385778",
+          "url" : "https:\/\/live.staticflickr.com\/5476\/14400385778_43702427d9_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "How Arcadia built the famous spider stage at Glastonbury",
+          "type" : "link",
+          "url" : "https:\/\/www.ingenia.org.uk\/articles\/the-arcadia-spider-from-junk-to-spectacle\/"
+        },
+        {
+          "curator_title" : "Cleaning up for the Cows: Who are the Glastonbury Recycling Crew?",
+          "type" : "link",
+          "url" : "https:\/\/glastofestfeed.com\/features\/cleaning-up-cows-glastonbury-recycling-crew"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Rhi Kimchi, festival blogger",
+        "text" : "Discovering Arcadia for the first time will remain one of the most mind-blowing moments of my life."
+      },
+      "theme" : "Small Stage"
+    },
+    {
+      "date" : "2026-06-26",
+      "hero" : [
+        {
+          "alt" : "A side view of the NME stage at night. A band can be seen silhouetted on stage.",
+          "credit" : "Matthew Petty",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/91108252@N00\/2285807200",
+          "url" : "https:\/\/live.staticflickr.com\/2353\/2285807200_1dddd60f7b_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Greenpeace at Glastonbury Festival",
+          "type" : "link",
+          "url" : "https:\/\/www.glastonburyfestivals.co.uk\/areas\/the-green-fields\/greenpeace\/"
+        },
+        {
+          "curator_title" : "Glastonbury Fayre (1972 documentary film)",
+          "type" : "link",
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Glastonbury_Fayre_(film)"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Richard Ashcroft, Verve frontman",
+        "text" : "Glastonbury was still pretty hairy in the early ’90s. people getting lost and not seeing each other for three days. It was bonkers when you went out at night."
+      },
+      "theme" : "Getting lost"
+    },
+    {
+      "date" : "2026-06-27",
+      "hero" : [
+        {
+          "alt" : "Sunrise over the glastonbury festival. A valley of tents and marquees barely illuminated by soft orange light.",
+          "credit" : "Alex Mitchell",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/17417793@N00\/5913772334",
+          "url" : "https:\/\/live.staticflickr.com\/5156\/5913772334_f05600a687_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Glastonbury Fayre (1972 documentary film)",
+          "type" : "link",
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Glastonbury_Fayre_(film)"
+        },
+        {
+          "curator_title" : "Cleaning up for the Cows: Who are the Glastonbury Recycling Crew?",
+          "type" : "link",
+          "url" : "https:\/\/glastofestfeed.com\/features\/cleaning-up-cows-glastonbury-recycling-crew"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Mish, festival-goer",
+        "text" : "I think Melanie was singing as the sun came up or went down...we were all holding hands, and the energy that flowed between us all was so indescribable."
+      },
+      "theme" : "First Timer"
+    },
+    {
+      "date" : "2026-06-28",
+      "hero" : [
+        {
+          "alt" : "The 1980s Pyramid Stage. Constructed out of telegraph poles and sheets of metal with a CND logo at the peak. A band is illuminated on stage.",
+          "credit" : "SteveR-",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/98621709@N00\/3660294679",
+          "url" : "https:\/\/live.staticflickr.com\/3317\/3660294679_9b63617e5a_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "Jah Wobble's Invaders of the Heart, Glastonbury 1992",
+          "type" : "video",
+          "url" : "https:\/\/www.youtube.com\/watch?v=_lBkmW9JRo8"
+        },
+        {
+          "curator_title" : "Water Aid",
+          "type" : "link",
+          "url" : "https:\/\/www.wateraid.org\/uk"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Peter Hook, New Order bassist",
+        "text" : "Glastonbury wasn’t such a big deal 1n 1981 – it was just a load of blokes camping in a field."
+      },
+      "theme" : "Campsite"
+    },
+    {
+      "date" : "2026-06-29",
+      "hero" : [
+        {
+          "alt" : "Jay-J performing on stage",
+          "credit" : "neal whitehouse piper",
+          "credit_url" : "https:\/\/www.flickr.com\/photos\/34413323@N00\/2620018689",
+          "url" : "https:\/\/live.staticflickr.com\/3120\/2620018689_71abb499e2_o.jpg"
+        }
+      ],
+      "memory" : [
+        {
+          "curator_title" : "The Verve, Glastonbury 1993",
+          "type" : "video",
+          "url" : "https:\/\/www.youtube.com\/watch?v=JIibhiKVBks"
+        },
+        {
+          "curator_title" : "Greenpeace at Glastonbury Festival",
+          "type" : "link",
+          "url" : "https:\/\/www.glastonburyfestivals.co.uk\/areas\/the-green-fields\/greenpeace\/"
+        }
+      ],
+      "quote" : {
+        "attribution" : "Jay-Z",
+        "text" : "It was almost like we were conquering a territory. I was like, ‘Man, should I not be here? What have I gotten into?’ That old line of the fence: On the other side people were like, ‘Yes, come over, this is how we listen to music, we like hip-hop, we like all types of music.’"
+      },
+      "theme" : "Come over"
+    },
+    {
+      "date" : "2026-06-30",
+      "hero" : [
         {
           "url": "https://live.staticflickr.com/65535/51353106998_af21ca2f77_o.jpg",
           "credit": "Paula Bailey",
@@ -14,27 +262,22 @@
           "alt": "Looking down the 'road' that divides Big Ground in two. Overgrown but still rocky underfoot."
         }
       ],
-      "quote": {
-        "text": "The valley and tor worked their magic, the sun shone and entry was free.",
-        "attribution": "Andrew Kerr, co-organiser of the 1971 Glastonbury Fayre, in his memoir 'Intolerably Hip' (2011)"
-      },
-      "memory": [
+      "memory" : [
         {
           "type": "link",
           "url": "https://www.bfi.org.uk/features/still-life-glastonbury-1971-pyramid-stage",
-          "curator_title": "Hippie bliss at Glastonbury",
-          "curator_description": "",
-          "thumbnail_url": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2022-02/glastonbury-festival-and-the-first-pyramid-stage-1972-pyramid-stage-scaffolding.jpg/600x0/glastonbury-festival-and-the-first-pyramid-stage-1972-pyramid-stage-scaffolding.jpg"
+          "curator_title": "Hippie bliss at Glastonbury"
         }
       ],
-      "revision": 1,
-      "priority": "normal"
+      "quote" : {
+        "text": "The valley and tor worked their magic, the sun shone and entry was free.",
+        "attribution": "Andrew Kerr, co-organiser of the 1971 Glastonbury Fayre, in his memoir 'Intolerably Hip' (2011)"
+      },
+      "theme" : "Magic Valley"
     },
     {
-      "id": "2026-06-16",
-      "date": "2026-06-16",
-      "theme": "Stone Circle",
-      "hero": [
+      "date" : "2026-07-01",
+      "hero" : [
         {
           "url": "https://live.staticflickr.com/40/121881815_dd48804bd3_b.jpg",
           "credit": "John Hartnup",
@@ -42,27 +285,22 @@
           "alt": "A muddy Kings field and stone circle."
         }
       ],
+      "memory" : [
+        {
+          "type": "link",
+          "url": "https://www.megalithic.co.uk/article.php?sid=45067",
+          "curator_title": "Historic accounts date the monuments construction to 1992"
+        }
+      ],
       "quote": {
         "text": "Everyone started dancing spontaneously at the stone circle at sunset.",
         "attribution": "Tanya Cooper, festival-goer, recalling Glastonbury 1997"
       },
-      "memory": [
-        {
-          "type": "link",
-          "url": "https://www.megalithic.co.uk/article.php?sid=45067",
-          "curator_title": "Historic accounts date the monuments construction to 1992",
-          "curator_description": "",
-          "thumbnail_url": "https://live.staticflickr.com/3873/14427083069_cf89671ab9_o.jpg?s=eyJpIjoxNDQyNzA4MzA2OSwiZSI6MTc4MTU1MzQ3MSwicyI6IjIzZDM5ZWUzMjU3MThiZGUwNTgxNmY5ZGQ4MjBlNmVjNDE1MWI4NTMiLCJ2IjoxfQ"
-        }
-      ],
-      "revision": 1,
-      "priority": "normal"
+      "theme" : "Stone Circle"
     },
     {
-      "id": "2026-06-17",
-      "date": "2026-06-17",
-      "theme": "Stone Circle",
-      "hero": [
+      "date" : "2026-07-02",
+      "hero" : [
         {
           "url": "https://live.staticflickr.com/6020/5881329744_34ffdaff88_o.jpg",
           "credit": "Rachel D",
@@ -70,21 +308,42 @@
           "alt": "Psychedelic Pyramid Stage illumiated with colourful projections."
         }
       ],
+      "memory" : [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Q7GFcLMqoaw",
+          "curator_title": "Do psychedelics matter?"
+        }
+      ],
       "quote": {
         "text": "Glastonbury can be like... it’s a psychic obstacle course",
         "attribution": "Jarvis Cocker"
       },
-      "memory": [
+      "theme" : "Psychic obstacle course"
+    },
+    {
+      "date" : "2026-07-02",
+      "hero" : [
         {
-          "type": "link",
-          "url": "https://www.youtube.com/watch?v=Q7GFcLMqoaw",
-          "curator_title": "Do psychedelics matter?",
-          "curator_description": "",
-          "thumbnail_url": "https://live.staticflickr.com/7434/9202223813_d8fa0a2091_o.jpg?s=eyJpIjo5MjAyMjIzODEzLCJlIjoxNzgxNTU0NjY3LCJzIjoiOTA3MDgxOWEzY2Q1ZTVmOGQyOTgyOGM5NWM1MzNlOTczZjhmYTg1MCIsInYiOjF9"
+          "url": "https://live.staticflickr.com/9/13395386_69a9d98923_o.jpg",
+          "credit": "Oxymoron",
+          "credit_url": "https://www.flickr.com/photos/oxymoron/13395386/in/photolist-8fzte-5XRcK2-5Z7qmG-5YBBdc-3EZe7r-5WuRHN-5X9Mk6-5Xu9yk-2bDZq-2bDYW-5YqGFE-2bE1P-5ZceWE-2bE1C-2bDYE-2bE1n-2bE21-2bDYQ-7KYpiy-2kQFRsy-tLgLe-2b9YWo-aBoRzE-9YMKaj-aBmaZv-aBoRvC-aBmaWv-aBmaTx-aBmaJc-aBmb4n-cvcsFJ-bDhyxQ-2hsWjJZ-dQ9ijS-Kav8db-bDhypm-2jcvUxf-9gaZ1u-2bDYZ-2bDZQ-2bDYS-2bDYz-2Y1qd-rVXngf-2bE1e-2bE1q-2bDZn-awwKw-2qn7CKj-2qnz9zZ",
+          "alt": "A person sueezing through a tunnel under the festival fence."
         }
       ],
-      "revision": 1,
-      "priority": "normal"
+      "memory" : [
+        {
+          "type": "link",
+          "url": "https://www.myglastonburystory.com/archive/glastonbury2000s",
+          "curator_title": "Noughties Glastonbury — My Glastonbury Story"
+        }
+      ],
+      "quote":  {
+        "text": "The freedom. Didn’t pay. Broke in. Broke out to travellers field. Broke back in. Broke back out etc. Haha. The freedom. The rebellion",
+        "attribution": "Ruth Stokes, festival-goer, recalling Glastonbury 2000"
+      },
+      "theme" : "Psychic obstacle course"
     }
-  ]
+  ],
+  "version" : 1
 }
