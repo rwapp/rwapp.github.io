@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Rob Whitaker" />
+    <meta name="robots" content="noindex" />
+    <title>Accessibility Nutrition Labels — talk links · Rob Whitaker</title>
+    <meta name="description" content="Links from Rob Whitaker's talk: Accessibility Nutrition Labels — How to Test, Evaluate, and Stand Out on the App Store." />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/bootstrap-icons.min.css" rel="stylesheet" />
+    <link href="/css/ignite-core.min.css" rel="stylesheet" />
+    <link href="https://www.rwapp.co.uk/talks/accessibility-nutrition-labels/" rel="canonical" />
+    <script>(function() {
+    function getThemePreference() {
+        return localStorage.getItem('custom-theme') || 'auto';
+    }
+
+    function applyTheme(themeID) {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const lightThemeID = document.documentElement.getAttribute('data-light-theme') || 'light';
+        const darkThemeID = document.documentElement.getAttribute('data-dark-theme') || 'dark';
+        const actualThemeID = themeID === 'auto' ? (prefersDark ? darkThemeID : lightThemeID) : themeID;
+
+        document.documentElement.setAttribute('data-bs-theme', actualThemeID);
+        document.documentElement.setAttribute('data-theme-state', themeID);
+    }
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        if (getThemePreference() === 'auto') applyTheme('auto');
+    });
+
+    applyTheme(getThemePreference());
+})();
+</script>
+    <style>
+      .ig-main-content { max-width: 52rem; }
+      .talk-section { margin-top: 2.5rem; }
+      .talk-section ul { list-style: none; padding-left: 0; }
+      .talk-section li { padding: 0.4rem 0; }
+      .talk-section li a { font-size: 1.1rem; }
+      .link-note { color: var(--bs-secondary-color); font-size: 0.95rem; }
+      a:focus-visible { outline: 3px solid var(--bs-link-color); outline-offset: 2px; border-radius: 2px; }
+    </style>
+  </head>
+  <body class="ms-2 me-5 container">
+    <main class="ig-main-content" id="main">
+      <header>
+        <p class="link-note mb-1 mt-4">Conference talk &amp; workshop</p>
+        <h1 style="line-height: 1.1; font-weight: 800">Accessibility Nutrition Labels</h1>
+        <p class="fs-5 mb-1">How to Test, Evaluate, and Stand Out on the App Store</p>
+        <p class="link-note">by <a href="https://www.linkedin.com/in/rob-whitaker/" target="_blank" rel="noopener">Rob Whitaker</a></p>
+      </header>
+
+      <hr />
+
+      <section class="talk-section" aria-labelledby="workshop-heading">
+        <h2 id="workshop-heading">Workshop</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/dadederk/fromZeroToAccessible" target="_blank" rel="noopener">Code repo: From Zero to Accessible</a>
+            <div class="link-note">The project we&rsquo;ll build on during the workshop.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="talk-section" aria-labelledby="book-heading">
+        <h2 id="book-heading">My book</h2>
+        <ul>
+          <li>
+            <a href="https://link.springer.com/book/10.1007/979-8-8688-2809-6" target="_blank" rel="noopener">Developing Inclusive Mobile Apps: Building Accessible Apps for iOS and Android</a>
+            <div class="link-note">Use code <strong>APAUT</strong> for 20% off.</div>
+          </li>
+        </ul>
+      </section>
+
+      <section class="talk-section" aria-labelledby="apple-heading">
+        <h2 id="apple-heading">Apple documentation</h2>
+        <ul>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/overview-of-accessibility-nutrition-labels" target="_blank" rel="noopener">Overview of Accessibility Nutrition Labels</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/manage-accessibility-nutrition-labels" target="_blank" rel="noopener">Manage Accessibility Nutrition Labels</a></li>
+        </ul>
+
+        <h3 class="mt-4 fs-5">Evaluation criteria</h3>
+        <ul>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/voiceover-evaluation-criteria" target="_blank" rel="noopener">VoiceOver</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/voice-control-evaluation-criteria" target="_blank" rel="noopener">Voice Control</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/larger-text-evaluation-criteria" target="_blank" rel="noopener">Larger Text</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/dark-interface-evaluation-criteria" target="_blank" rel="noopener">Dark Interface</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/differentiate-without-color-alone-evaluation-criteria" target="_blank" rel="noopener">Differentiate Without Color Alone</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/sufficient-contrast-evaluation-criteria" target="_blank" rel="noopener">Sufficient Contrast</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/reduced-motion-evaluation-criteria" target="_blank" rel="noopener">Reduced Motion</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/captions-evaluation-criteria" target="_blank" rel="noopener">Captions</a></li>
+          <li><a href="https://developer.apple.com/help/app-store-connect/manage-app-accessibility/audio-descriptions-evaluation-criteria" target="_blank" rel="noopener">Audio Descriptions</a></li>
+        </ul>
+      </section>
+
+      <section class="talk-section" aria-labelledby="tools-heading">
+        <h2 id="tools-heading">Tools</h2>
+        <ul>
+          <li><a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" rel="noopener">Colour Contrast Analyser (CCA)</a></li>
+        </ul>
+      </section>
+
+      <section class="talk-section" aria-labelledby="more-heading">
+        <h2 id="more-heading">More from me</h2>
+        <ul>
+          <li><a href="https://mobilea11y.com" target="_blank" rel="noopener">Blog: Mobile A11y</a></li>
+          <li><a href="https://www.linkedin.com/in/rob-whitaker/" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="https://iosdev.space/@RobW" target="_blank" rel="noopener me">Mastodon: @RobW@iosdev.space</a></li>
+        </ul>
+      </section>
+
+      <hr class="mt-5" />
+      <footer class="pb-5">
+        <p class="link-note">Rob Whitaker · Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+      </footer>
+    </main>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
